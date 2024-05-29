@@ -39,7 +39,7 @@ https://repo.anaconda.com/pkgs/main/win-64/lz4-c-1.9.4-h2bbff1b_1.conda
 https://repo.anaconda.com/pkgs/main/win-64/lzo-2.10-he774522_2.conda
 https://repo.anaconda.com/pkgs/main/win-64/mpfr-4.0.2-h62dcd97_1.conda
 https://repo.anaconda.com/pkgs/main/win-64/mpir-3.0.0-hec2e145_1.conda
-https://repo.anaconda.com/pkgs/main/win-64/openssl-3.0.13-h2bbff1b_1.conda
+https://repo.anaconda.com/pkgs/main/win-64/openssl-3.0.13-h2bbff1b_2.conda
 https://repo.anaconda.com/pkgs/main/win-64/re2-2022.04.01-hd77b12b_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/snappy-1.1.10-h6c2663c_1.conda
 https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.45.3-h2bbff1b_0.conda
