@@ -2,11 +2,3 @@ gk_formula: https://pusaka.magelangkab.go.id/metadata/indikator/detailIndikator/
 
 
 
-Financial Intelligence NTUST - https://teep.studyintaiwan.org/program/817 
-req: 
-	- Statement of Purpose letter
-
-
-NTU - https://teep.studyintaiwan.org/program/619
-
-
