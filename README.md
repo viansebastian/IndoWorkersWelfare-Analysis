@@ -31,12 +31,14 @@ This dataset contains the data of the Expense, Minimum Wage, Poverty Line, and W
 
 The dataset we chose consists of the Garis Kemiskinan (Poverty Line), Pengeluaran (Expenses), UMP (Minimum Wage), and the Upah (Wage) tables. 
 The detailed description of them are as follows: 
-1. Poverty Line is defined using the formula below: 
+1. Poverty Line is defined using the formula below:
+   
     $$\text{PL} = \text{PLF} + \text{PLNF}$$
+   
 *where*:
-    $$\text{PL} = Poverty Line$$
-    $$\text{PLF} = Food Poverty Line$$
-    $$\text{PLNF} = Non-Food Poverty Line$$
+- $$\text{PL} = Poverty Line$$
+- $$\text{PLF} = Food Poverty Line$$
+- $$\text{PLNF} = Non-Food Poverty Line$$
     
 In essence, the poverty line is the minimum amount 
 of money needed to fulfill both food needs (PLF) 
